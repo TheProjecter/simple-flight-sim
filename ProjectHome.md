@@ -1,0 +1,1 @@
+A simple race flight simulator built in XNA, focusing on providing a clear understanding of reasoning and rationale behind various techniques. Currently in construction.
